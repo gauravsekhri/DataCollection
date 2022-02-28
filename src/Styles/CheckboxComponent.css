@@ -1,0 +1,8 @@
+input[type="checkbox"]{
+    margin: 0px 15px 0px 0px;
+    display: none;
+}
+
+input[type="checkbox"]:checked + label {
+    background-color: #76cf9f !important;
+}

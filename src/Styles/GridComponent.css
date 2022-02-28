@@ -1,0 +1,33 @@
+.container-box{
+    margin: 40px 10px 40px 25px;
+}
+
+td{
+    border: 0.3px solid grey;
+    border-radius: 4px;
+    /* max-width: 50px; */
+}
+
+tr{
+    width: auto;
+}
+
+/* input[type="radio"]{
+    display: block;
+} */
+
+.columnhead, .rowshead{
+    background-color: #98b4d459;
+    padding: 15px 20px;
+    /* max-width: 50px; */
+    text-align: center;
+}
+
+.grid-radio-label{
+    display: flex;
+    width: -webkit-fill-available;
+    align-items: center;
+    justify-content: center;
+    height: 4vh;
+    cursor: pointer;
+}

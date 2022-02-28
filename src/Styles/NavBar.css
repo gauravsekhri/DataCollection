@@ -1,0 +1,25 @@
+.nb_container{
+    min-height: 52px;
+    width: -webkit-fill-available;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0px 55px;
+}
+
+select{
+    padding: 5px 10px;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 8.5px 14px;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 9.5px 14px !important;
+}
+
+.css-vamk89-MuiFormControl-root{
+    margin: 8px !important;
+}

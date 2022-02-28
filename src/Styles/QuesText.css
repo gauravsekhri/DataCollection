@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+.qText{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 5px;
+    text-align: left;
+    font-size: 18px;
+}
+
+.qText > div{
+    padding: 2px 5px;
+}

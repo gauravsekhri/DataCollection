@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+.container{
+    max-width: 70%;
+    padding: 30px;
+    /* position: absolute; */
+    top: 0;
+    /* bottom: 10%; */
+    left: 0;
+    right: 0;
+    margin: 50px auto 0px auto !important;
+    height: -moz-fit-content;
+    height: fit-content;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nextbackContainer, .css-1clyo4s-MuiStack-root{
+    margin-top: 50px;
+}
+
+input[type=radio], input[type=checkbox]{
+    margin: 0px 5px 0px 0px;
+}
+
+@media only screen and (max-width: 620px) {
+
+    .container{
+        max-width: 100%;
+        width: -webkit-fill-available;
+    }
+
+}
