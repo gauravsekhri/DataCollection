@@ -1,0 +1,3 @@
+/*! For license information please see 3127.fad32ce1.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[3127],{3127:function(n,e,r){r.r(e),r.d(e,{i:function(){return t}});var t=function(n){return n&&""!==n.dir?"rtl"===n.dir.toLowerCase():"rtl"===(null===document||void 0===document?void 0:document.dir.toLowerCase())}}}]);
+//# sourceMappingURL=3127.fad32ce1.chunk.js.map
